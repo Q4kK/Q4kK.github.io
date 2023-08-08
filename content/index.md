@@ -1,2 +1,5 @@
-# This is a test
-test stuff
+# Welcome to my website
+
+I do programming, music production, and video editing.
+> I like to exist.
+
